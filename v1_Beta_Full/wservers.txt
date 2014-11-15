@@ -1,0 +1,27 @@
+com|whois.verisign-grs.com|No match for
+ua|whois.ua|No entries found
+ws|whois.nic.ws|No match for
+us|whois.nic.us|Not found
+tv|whois.nic.tv|No match for
+tm|whois.nic.tm|Not available
+su|whois.ripn.net|No entries found
+ru|whois.ripn.ru|No entries found
+org|whois.pir.org|NOT FOUND
+name|whois.nic.name|No match
+net|whois.verisign-grs.com|No match for
+mobi|whois.dotmobiregistry.net|NOT FOUND
+ms|whois.nic.ms|Not Registered
+md|whois.nic.md|No match for
+me|whois.nic.me|NOT FOUND
+info|whois.afilias.info|NOT FOUND
+hr|whois.ripe.net|No entries found
+hu|whois.ripe.net|No entries found
+gov|whois.nic.gov|No match for
+eg|whois.ripe.net|No entries found
+edu|whois.educause.net|No Match
+cz|whois.nic.cz|No entries found
+cc|whois.nic.cc|No match for
+by|whois.ripe.net|No entries found
+biz|whois.neulevel.biz|Not found
+be|whois.dns.be|Status:      FREE
+bg|whois.register.bg|does not exist in database
